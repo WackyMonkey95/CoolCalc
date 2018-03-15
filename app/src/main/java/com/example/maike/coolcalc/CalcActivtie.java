@@ -12,5 +12,6 @@ public class CalcActivtie extends Activity {
 
         // dit is een comment !
         // en nog een !
+        //maikels eerste commit
     }
 }
