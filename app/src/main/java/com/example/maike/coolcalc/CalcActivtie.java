@@ -31,7 +31,7 @@ public class CalcActivtie extends Activity {
         ImageButton equal_btn = (ImageButton)findViewById(R.id.equal_btn);
 
         Button clearn_btn = (Button) findViewById(R.id.clear_btn);
-        TextView textview = (TextView) findViewById(R.id.textview);
+        TextView resultTex = (TextView) findViewById(R.id.resultText);
 
 
         // dit is een comment !
