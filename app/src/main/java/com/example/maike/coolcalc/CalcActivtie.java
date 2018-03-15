@@ -11,5 +11,6 @@ public class CalcActivtie extends Activity {
         setContentView(R.layout.activity_calc_activtie);
 
         // dit is een comment !
+        // en nog een !
     }
 }
