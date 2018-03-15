@@ -6,7 +6,7 @@ import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-public class CalcActivtie extends Activity {
+public class CalcActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
